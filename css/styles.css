@@ -1,1 +1,27 @@
 
+.container {
+    width: fit-content;
+    justify-content: center;
+}
+
+.container h1 {
+    margin-left: 20px;
+}
+
+.pokemon-form{
+    margin-left: 50px;
+}
+
+#displayPokemon{
+    background-color: white;
+    margin: 15px;
+    padding: 20px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+    border-radius: 25px;
+}
+
+#displayPokemon img{
+    width: 300px;
+}
